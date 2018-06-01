@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IIOT</string>
+    <string name="navigation_drawer_open">Abrir navegador</string>
+    <string name="navigation_drawer_close">Cerrar navegador</string>
+    <string name="nav_header_title">Ruben Garcia Segovia</string>
+    <string name="nav_header_subtitle">ruben.garcia25@alu.uclm.es</string>
+    <string name="nav_header_desc">Navegador</string>
+    <string name="action_settings">Opciones</string>
+    <string name="title_activity_options">Opciones</string>
+    <string name="title_activity_opciones_app">Opciones</string>
+
+</resources>

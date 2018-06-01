@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/potencias"
+            android:title="Potencias" />
+        <item
+            android:id="@+id/medias"
+            android:title="Voltaje e intensidad rms" />
+        <item
+            android:id="@+id/frecuencias"
+            android:title="Frecuencias" />
+        <item
+            android:id="@+id/fdp"
+            android:title="FDP" />
+        <item
+            android:id="@+id/control"
+            android:title="Control" />
+    </group>
+</menu>
